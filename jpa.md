@@ -1,0 +1,45 @@
+- what is orm framwork and how is jpa related to that?
+- what are some benefits of using an orm framwork like jpa?
+- what are the advantages of using jpa over jdbc?
+- difference between jpa repository and crud repository?
+- what is name dquery in jpa? how is it used and what are the benefits of using this?
+- describe in detail about the persistence unit in jpa?
+- what is the purpose of entity manager in jpa?
+- what is the difference between entityamanger.find() and entity manager.getrefernce() methods in jpa
+- what is the purpose of the joincolumn annotation in jpa?
+- what type so f cascades does jpa support?
+    - what is the jpa?
+- what is the difference between a detached and attacted entity ni jpa?
+- what isthe purpose of the transactional annotation in jpa?
+- difference between save() and saveAndFlush()
+- what is the purpose of hte entitytmanagerfactory in sping data jpa?
+- 세션에 대해 설명해보시오
+- can you tell me the difference between jpa and hibernate?
+- what are entities in jpa?
+- does jpa performs the actual task like access, persist, nad manage data?
+- what is the object relational mapping?
+- what are advantages of jpa?
+- what are the embeddable classes?
+- what is jpql
+- what are feature of jpql?
+- how jpql is used in jpa?
+- what is database trasaction and how iti s used in jpa?
+- what are a
+- what is an orphan removal in mappings?
+- explain persistence life cycle of an object
+- what are the different typs of identifier generation
+- what is an entity
+- what are the properties of an entity?
+- what is the role of entity manager in jpa?
+- what are the consitrains on an entity class?
+- what is hte purpose of java collections in jpa
+- what type of objects can be stores in jpa collections mapping
+- what is the purpose of cascading operations in jpa?
+- what is criteria api
+- explain in detail the jpa application life cycle?
+- how does jpa handle optimistic lockng? can you give an example of how you would implement optimistic locking in jpa?
+- what is the purpose of the version annotation in jpa? how is it used in optimistic locking?
+- how can you use jpa to perform pagination of query results? what are the advantages of using pagination over fetchign all results at once?
+- how woudl you implement a custom jpa entity listener? can you given example of when you might use a custom entity listener in you application?
+- how can you use jpa to handle optimistic concurrency control? can you explain how the entitymanger.lock() method works?
+- can you explain how jpa handles entity state transitions ( from new to managed, mangaged to remove) what are some best practice fro manage entity states in jpa?
