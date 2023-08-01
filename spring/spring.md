@@ -6,9 +6,13 @@
 6. Spring ApplicationContext에 대해 설명해주세요.
 7. 스프링의 IoC 컨테이너에 대해 설명해주세요.
 8. Spring Container에 Bean으로 등록하는 여러가지 방법에 대해 설명해주세요.
-9. Spring Bean Factory Container에 대해 설명해주세요.
+9. Spring Bean Factory 에 대해 설명해주세요. 제공되는 구현에 대해 들어주세요.
 10. Spring Bean Scope에 대해 설명하고, 권장되는 Scope 설정에 대해 설명해주세요.
-11. 여러가지 DI 방식에 대해 설명하고, 가장 권장되는 방식에 대해 설명해주세요.
+11. Bean LifeCycle에 대해 설명해주세요
+12. 여러가지 DI 방식에 대해 설명하고, 가장 권장되는 방식에 대해 설명해주세요.
+13. Spring Bean에 property를 주입하거나 로드하는 방식에 대해서 설명해주세요.
+14. @Autowired가 동작하는 방식에 대해서 설명해주세요.
+15. Spring context에서 stereotype에 대해서 설명해주세요,
 
 <hr>
 1. Spring MVC의 Dispatcher Servlet에 대해 설명해주세요.
